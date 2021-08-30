@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\Blockchain_Bagis_Uygulamasi.exe.config
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\Blockchain_Bagis_Uygulamasi.exe
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\Blockchain_Bagis_Uygulamasi.pdb
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\websocket-sharp.dll
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\bin\Debug\websocket-sharp.xml
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.exe
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.pdb
+C:\Users\ASUS\source\repos\Blockchain_Bagis_Uygulamasi\obj\Debug\Blockchain_Bagis_Uygulamasi.Form1.resources
